@@ -4,9 +4,7 @@
 
     ### Creating a Simple Robotic Cell and layout onfiguration:
     https://youtu.be/cMe1Ol1EJEs
-    
-
-    https://github.com/user-attachments/assets/b1938d7f-ff05-41d5-8c1a-073c743caeed
+  https://github.com/user-attachments/assets/b1938d7f-ff05-41d5-8c1a-073c743caeed
 
 
 
